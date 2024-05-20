@@ -5,7 +5,7 @@ function Buscador() {
         <h1 className="card-title">Buscador de Personas</h1>
         <p className="card-text">Ingrese un numero para buscar</p>
         <a href="#" className="btn btn-primary">
-          Buscar Usuario aqui un nuevo cambio
+          Buscar Usuario aqui un nuevo cambio y muchos
         </a>
       </div>
     </div>
